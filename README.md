@@ -17,7 +17,7 @@ To run the code in this repository, you need to have Python 3.6 or later install
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/decision-tree-assignment.git
+   git clone https://github.com/melvin-mango/Decision-Trees.git
    cd decision-tree-assignment
    ```
 
@@ -66,4 +66,4 @@ If you have any questions or issues, please contact me at melvinlewisusiu@gmail.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more details.
